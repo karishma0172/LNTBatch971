@@ -1,3 +1,4 @@
 today is tuesday
 month is november
 year is 2021
+We are learning Git
